@@ -1,0 +1,7 @@
+Jamestown Davis_Hall 35.998172 -79.918971 DH_Ext_Book_1.jpg DH
+Jamestown Applied_Technologies 35.999081 -79.917802 AT_Ext_Front.png AT
+Jamestown James_Williams_Hall 35.99766 -79.917963 JWH_Ext_Court1.png JWH
+Jamestown Business_Hall 35.9977532 -79.920756 BH_Main_Bldg.png BH
+High_Point Entertainment_Technology 35.94741 -80.003126 H4_Ext_ET_Front.png H4
+TH_Davis Aviation_Center 33.095875 -79.951986 AV1_Ext_THDavis_Front.png AV1
+Cameron Cameron_Campus_Center 31.096784 -81.921567 CCC_EXT_CC_Main.png CCC
